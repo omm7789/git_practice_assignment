@@ -1,4 +1,4 @@
-let str="omm"
+let str="madam"
 function palindrome(){
 let bag="";
 for( let i=str.length-1;i>=0;i--){
